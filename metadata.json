@@ -1,0 +1,6 @@
+{
+  "name": "PaperPilot – Agentic RAG Research Assistant",
+  "description": "AI-powered research assistant for students and researchers to understand, summarize, compare, and analyze academic research papers using agentic RAG and Gemini File Search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
